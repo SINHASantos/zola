@@ -3,11 +3,11 @@
 title = "Inky"
 description = "An elegant and understated theme for Zola"
 template = "theme.html"
-date = 2024-06-10T05:58:57Z
+date = 2024-07-01T05:58:26Z
 
 [extra]
-created = 2024-06-10T05:58:57Z
-updated = 2024-06-10T05:58:57Z
+created = 2024-07-01T05:58:26Z
+updated = 2024-07-01T05:58:26Z
 repository = "https://github.com/jimmyff/zola-inky.git"
 homepage = "https://github.com/jimmyff/zola-inky"
 minimum_version = "0.17.0"
